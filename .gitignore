@@ -4,7 +4,7 @@ custom
 npm-debug.log
 .idea
 scripts/build-config-custom.js
-scripts/build-config-*.js
+scripts/build-config- .js
 kitchen-sink/vue/dist
 kitchen-sink/react/dist
 kitchen-sink/svelte/dist
@@ -55,3 +55,4 @@ build/vue/components
 src/vue-temp/*.js
 
 woff2/
+ 
